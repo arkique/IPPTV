@@ -16,3 +16,5 @@ Available
 - Kaloopy
 - American Horrors
 - 247 RetroTV
+- NHK General TV
+- New Japan Pro Wrestling World
