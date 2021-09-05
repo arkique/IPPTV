@@ -17,4 +17,9 @@ Available
 - American Horrors
 - 247 RetroTV
 - NHK General TV
+- NHK World
 - New Japan Pro Wrestling World
+- GTN Typhome (Subtitles) (720)
+- Nippon TV
+- Fuji TV
+- TBS
