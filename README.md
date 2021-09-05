@@ -23,3 +23,5 @@ Available
 - Nippon TV
 - Fuji TV
 - TBS
+
+Plus a bunch of aussie TV channels
