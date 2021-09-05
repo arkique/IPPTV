@@ -10,10 +10,7 @@ Pending
 - More Channels.
 
 Available
-
-News:
 - InfoWars
-
-Enternainment
 - Kaloopy
 - American Horrors
+- 247 RetroTV
