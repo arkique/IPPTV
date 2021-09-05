@@ -16,5 +16,4 @@ News:
 
 Enternainment
 - Kaloopy
-
-Local TV
+- American Horrors
