@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="https://github.com/arkique/IPPTV/blob/main/logos/Kaloopy_340x340.png?raw=true" group-title="(18+)",Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
-#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/arkique/IPPTV/blob/main/logos/Kaloopy_340x340.png" group-title="News",InfoWars (720p)
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-name="InfoWars" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/infowars.png" group-title="News",InfoWars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/AmericanHorrors.png" group-title="Nostalgia Flicks",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
