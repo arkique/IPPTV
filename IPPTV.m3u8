@@ -14,7 +14,7 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
 #EXTINF:-1 tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
 https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
