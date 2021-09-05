@@ -1,5 +1,7 @@
 #EXTM3U
-
+#
+#ENGLISH
+#
 #EXTINF:-1 tvg-logo="https://github.com/arkique/IPPTV/blob/main/logos/Kaloopy_340x340.png?raw=true" group-title="(18+)",Kaloopy
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
@@ -11,3 +13,10 @@ http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/AmericanHorrors.png" group-title="Nostalgia Flicks",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#
+#JAPANESE
+#
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK General TV (540p)
+https://nhk1.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World (540p)
