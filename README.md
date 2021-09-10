@@ -15,6 +15,7 @@ Pending
 Available
 - InfoWars
 - Kaloopy
+- FTV Midnight Secrets
 - American Horrors
 - 247 RetroTV
 - NHK General TV
@@ -24,6 +25,7 @@ Available
 - Nippon TV
 - Fuji TV
 - TBS
+- Fireside
 
 Plus a bunch of aussie TV channels
 
