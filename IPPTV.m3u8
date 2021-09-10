@@ -112,3 +112,27 @@ https://ntv1.mov3.co/hls/ntv.m3u8
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS (540p)
 https://tbs.mov3.co/hls/tbs.m3u8
+
+#
+# MISC
+#
+#EXTINF:-1 tvg-id="Fireside.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Relax",Fireside (720p)
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveAnimalLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Nature Live Animal Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Nature Live Aurora Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Nature Live Beaches Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Nature Live Forest Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Nature Live Lake Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Nature Live Mountain Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Relax",Bumblebee TV Nature Live Rivers Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Nature Live Sunset Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNatureLiveTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Nature Live Tropics Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
