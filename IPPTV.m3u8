@@ -98,11 +98,11 @@ http://api.new.livestream.com/accounts/29362865/events/9256057/broadcasts/222628
 #
 #JAPANESE
 #
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK General TV (540p)
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/nhkg.png" group-title="",NHK General TV (540p)
 https://nhk1.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World (540p)
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/arkique/IPPTV/main/logos/480px-New_Japan_Pro_Wrestling_Logo_2.svg.webp" group-title="Sports",New Japan Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHKWorld" tvg-country="JP" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="",NHK World (720p)
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHKWorld" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="",NHK World (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 #EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-name="GTN Typhome" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="",GTN Typhome (English Subs) (720p) [Not 24/7]
 https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
