@@ -11,6 +11,7 @@ did you just want the file?: https://raw.githubusercontent.com/arkique/IPPTV/mai
 Pending
 - Logos
 - More Channels.
+- Create one master list and split the current sources into their own categories.
 
 Available
 - InfoWars
