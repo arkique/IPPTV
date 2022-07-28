@@ -28,7 +28,7 @@ Available
 - TBS
 - Fireside
 
-Plus a bunch of aussie TV channels
+Plus a bunch of aussie TV channels *CURRENTLY REMOVED
 
 
 NOTICE:
