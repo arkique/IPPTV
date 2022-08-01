@@ -29,6 +29,8 @@ Available
 - Fireside
 
 Plus a bunch of aussie TV channels *CURRENTLY REMOVED
+Pluto TV US channels
+
 
 
 NOTICE:
