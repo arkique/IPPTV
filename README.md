@@ -12,6 +12,7 @@ Pending
 - Logos
 - More Channels.
 - Create one master list and split the current sources into their own categories.
+- Plus some other stuff.
 
 Available
 - InfoWars
